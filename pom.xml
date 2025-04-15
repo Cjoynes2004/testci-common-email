@@ -27,6 +27,7 @@
     <version>1.3.2</version>
     <name>Commons Email</name>
 
+    <!-- This is a Change to ensure my CI build is working-->
     <inceptionYear>2001</inceptionYear>
     <description>
         Commons-Email aims to provide an API for sending email. It is built on top of
